@@ -1,5 +1,6 @@
 {
   "name": "time-tracker",
+  "homepage": "https://am-cmg.github.io/time-tracker/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
